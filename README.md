@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+
 # 🏠 KitNet OS — Dashboard de Gestão
 
 Dashboard premium para gestão de kitnets com dark mode, avatares pixel art e gráficos interativos.
@@ -124,4 +124,3 @@ npx vercel --prod
 - Recharts para gráficos
 - Supabase para backend
 - Fontes: Rajdhani + DM Sans + JetBrains Mono
->>>>>>> a9b97365ee728fdf9a0965e238a46aac99c28d21
