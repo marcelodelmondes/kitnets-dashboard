@@ -1,4 +1,3 @@
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,22 +76,13 @@ Dashboard premium para gestão de kitnets com dark mode, avatares pixel art e gr
 ## 🚀 Setup Rápido
 
 ### 1. Instalar dependências
-```bash
 npm install
-```
 
 ### 2. Configurar Supabase (opcional)
-```bash
 cp .env.example .env.local
-# Edite .env.local com suas credenciais do Supabase
-```
-
-Execute o SQL em `src/lib/supabase.js` no Supabase SQL Editor para criar as tabelas.
 
 ### 3. Rodar localmente
-```bash
 npm start
-```
 
 ### 4. Deploy na Vercel
 ```bash
